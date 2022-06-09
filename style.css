@@ -12,7 +12,7 @@ body{
 	font-family: 'Source Serif Pro', serif !important;
 }
 p{
-	font-family: inter, sans-serif;
+    font-family: inter, sans-serif;
 }
 
 .container{
@@ -571,18 +571,17 @@ p{
         height: 50px;
     }
     .ctext1 h2{
-        font-size: 27px;
-        width: 300px;
-        margin-left: -80px;
+        font-size: 26px;
+        margin-left: -72px;
+        width: 262px;
     } 
     .ctext p{
         color: #6B7280;
         font-size: 17px;
         line-height: normal;
-        width: 302px;
-        padding-right: 73px;
-        margin-left: -81px;
-        line-height: 25px;
+        width: 228px;
+        margin-left: -88px;
+        
     }
     .p1 img {
         height: 272px;
